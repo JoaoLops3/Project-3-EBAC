@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "swapmarket-landing-page",
+  "outputDirectory": ".",
   "rewrites": [
     {
       "source": "/(.*)",
