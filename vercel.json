@@ -1,12 +1,6 @@
 {
   "version": 2,
   "name": "swapmarket-landing-page",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
   "rewrites": [
     {
       "source": "/(.*)",
